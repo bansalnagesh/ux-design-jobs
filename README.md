@@ -6,11 +6,14 @@ A curated list of the best design jobs in tech including UX, UI, and product des
 
 ## Latest Jobs
 
-*Updated on 2025-04-19*
+*Updated on 2025-04-21*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| LimeFlight | Product Designer | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/1d5b9c3970144ea49c96a8800a9ba5f1?utm=github) |
+| Cloudflare | Frontend Engineer, UI Platform | 📍 Greater London, England, United Kingdom | Apr 20 | [Apply](https://starjobs.dev/jobs/592d2438a52b4e39bca2141f9ddcb173?utm=github) |
+| One Identity | Frontend UI Developer | 📍 Morava, Centralna Srbija, Serbia | Apr 18 | [Apply](https://starjobs.dev/jobs/16f65a8c8f6a4184a87086f8c63eb895?utm=github) |
+| Endava | Games - Technical UX Designer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/28aa571cba364e89bd3bdec613c14f34?utm=github) |
+| Pinterest | Staff UX Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/eac13709a24544049ea0ba9a2cc727e0?utm=github) |
 
 
 ## About This List
@@ -23,9 +26,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
-* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
 * [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
-* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
 * [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
+* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
+* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
